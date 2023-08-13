@@ -1,5 +1,0 @@
-{{#user}
-Name: Saurabh Shingare
-Skills: HTML, CSS, JS, Reactjs(Familiar), Nodejs, Bootstrap , Tailwind
-Email: saurabhshingare18902@gmail.com
-{{/user}}
